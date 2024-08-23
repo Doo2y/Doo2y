@@ -10,6 +10,6 @@ chula u. (cedt)
 ### Now Playing — Spotify 🎧
 <p>
 <a href=”https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&redirect=true](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=bezxmhvbkujq5nok6p46zxdsk&redirect=true)">
-<img src=”https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=bezxmhvbkujq5nok6p46zxdsk&cover_image=false&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)>
+<img src=”[https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=bezxmhvbkujq5nok6p46zxdsk&cover_image=false&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)"/>
 </a>
 </p>
