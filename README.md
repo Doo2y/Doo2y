@@ -4,3 +4,5 @@ call me best
 
 chula u. (cedt)
 
+#### my skill
+[![My Skills](https://skillicons.dev/icons?i=pr&perline=3)](https://skillicons.dev)
