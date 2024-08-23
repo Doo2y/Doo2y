@@ -10,6 +10,6 @@ chula u. (cedt)
 #### on spotify
 <p>
 <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=bezxmhvbkujq5nok6p46zxdsk&redirect=true">
-<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=bezxmhvbkujq5nok6p46zxdsk&cover_image=false&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)"/>
+<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=bezxmhvbkujq5nok6p46zxdsk&cover_image=false&theme=default&show_offline=false&interchange=false&bar_color=53b14f&bar_color_cover=false)"/>
 </a>
 </p>
