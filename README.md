@@ -6,7 +6,7 @@ my kristana areerob
 
 chula u. (cedt)
 
-## my skill
+## my.
 [![My Skills](https://skillicons.dev/icons?i=pr,ps,ae&perline=3)](https://skillicons.dev)
 
 #### on spotify
